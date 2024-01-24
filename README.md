@@ -2,7 +2,7 @@
 
 #  Clima
 
-## Our Goal
+## Goal
 
 It’s time to take my app development skills to the next level. I will introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. 
 
